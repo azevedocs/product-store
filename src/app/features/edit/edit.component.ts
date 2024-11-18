@@ -4,7 +4,7 @@ import { FormControl } from '@angular/forms';
 import { FormGroup } from '@angular/forms';
 import { MatButtonModule } from '@angular/material/button';
 import { MatFormFieldModule } from '@angular/material/form-field';
-import { ProductsService } from '../../shared/service/products.service';
+import { ProductsService } from '../../shared/services/products.service';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Product } from '../../shared/interfaces/product.interface';

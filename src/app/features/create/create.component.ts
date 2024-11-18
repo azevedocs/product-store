@@ -3,7 +3,7 @@ import { FormControl, FormGroup, ReactiveFormsModule, Validators } from '@angula
 import { Title } from '@angular/platform-browser';  
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatButtonModule } from '@angular/material/button';
-import { ProductsService } from '../../shared/service/products.service';
+import { ProductsService } from '../../shared/services/products.service';
 import { subscribeOn } from 'rxjs';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { validateHorizontalPosition } from '@angular/cdk/overlay';
