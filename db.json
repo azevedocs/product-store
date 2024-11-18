@@ -1,20 +1,8 @@
 {
   "products": [
     {
-      "isTrusted": true,
-      "id": "1"
-    },
-    {
-      "id": "313b",
-      "title": "Henrique"
-    },
-    {
       "id": "4c3d",
       "title": "Gabriel"
-    },
-    {
-      "id": "c8b0",
-      "title": "Bia"
     },
     {
       "id": "15c1",
