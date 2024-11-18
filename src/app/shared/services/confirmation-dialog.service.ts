@@ -9,7 +9,7 @@ import { filter, Observable } from 'rxjs';
   template: `
   <h2 mat-dialog-title>Deletar produto</h2>
 <mat-dialog-content>
-  Tem certeza que quer deletar esse produto?
+  Tem certeza que deseja deletar esse produto?
 </mat-dialog-content>
 <mat-dialog-actions align="center">
   <button mat-button (click)="onNo()">Não</button>
